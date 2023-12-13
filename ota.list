@@ -1,5 +1,5 @@
 # Block OTA
-HOST,mesu.apple.com
-HOST,gdmf.apple.com
-HOST,updates-http.cdn-apple.com
-HOST,xp.apple.com
+HOST,mesu.apple.com,REJECT 
+HOST,gdmf.apple.com,REJECT 
+HOST,updates-http.cdn-apple.com,REJECT 
+HOST,xp.apple.com,REJECT
