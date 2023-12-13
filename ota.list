@@ -1,0 +1,5 @@
+# Block OTA
+HOST,mesu.apple.com,Apple
+HOST,gdmf.apple.com,Apple
+HOST,updates-http.cdn-apple.com,Apple
+HOST,xp.apple.com,Apple
