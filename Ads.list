@@ -29,6 +29,8 @@ HOST-SUFFIX, u3.ucweb.com, REJECT
 HOST-KEYWORD, safebrowsing., REJECT
 
 # ======= B ======= #
+# 哔哩哔哩
+HOST, upos-sz-staticcos.bilivideo.com, REJECT
 # 百度
 HOST, mobads.baidu.com, REJECT
 HOST-SUFFIX, pos.baidu.com, REJECT
