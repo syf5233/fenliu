@@ -119,6 +119,8 @@ IP-CIDR, 47.110.187.87/32, REJECT
 # ======= X ======= #
 # 小米
 HOST, sdkconfig.ad.xiaomi.com, REJECT
+# 小红书
+HOST, http://fe-static.xhscdn.com, REJECT
 
 # ======= Y ======= #
 # 优酷 & 菜鸟
