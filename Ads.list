@@ -30,9 +30,9 @@ HOST-KEYWORD, safebrowsing., REJECT
 
 # ======= B ======= #
 # 哔哩哔哩
-HOST,upos-sz-staticcos.bilivideo.com, REJECT
-HOST,mall.bilibili.com, REJECT 
-HOST,passport.bilibili.com, REJECT 
+HOST, upos-sz-staticcos.bilivideo.com, REJECT
+HOST, mall.bilibili.com, REJECT 
+HOST, passport.bilibili.com, REJECT 
 # 百度
 HOST, mobads.baidu.com, REJECT
 HOST-SUFFIX, pos.baidu.com, REJECT
